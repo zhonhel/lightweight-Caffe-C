@@ -1,4 +1,4 @@
-#include"genCNN.h"
+#include"createCNN.h"
 #include"train.h"
 
 int main(int argc,char* argv[])
