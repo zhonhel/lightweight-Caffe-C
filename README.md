@@ -1,2 +1,2 @@
 # lightweight-Caffe-C
-It's lightweight-Caffe in C.
+It's a lightweight-Caffe in C.
